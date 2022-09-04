@@ -1511,6 +1511,11 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
+"@palmabit/strapi-app-version@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@palmabit/strapi-app-version/-/strapi-app-version-1.0.1.tgz#c8955173259e9d36d18ef8a93350674c1b95c1fa"
+  integrity sha512-LaoIrzdyQZUpqPfM8Ut6IZLAg6NOpdOCMS48egSNiKjiIh09E1lswj20z2bM1erB9t7LmvSwRP13e2Gy5BJJyA==
+
 "@pmmmwh/react-refresh-webpack-plugin@0.5.7":
   version "0.5.7"
   resolved "https://registry.yarnpkg.com/@pmmmwh/react-refresh-webpack-plugin/-/react-refresh-webpack-plugin-0.5.7.tgz#58f8217ba70069cc6a73f5d7e05e85b458c150e2"
