@@ -4,7 +4,8 @@
   "info": {
     "singularName": "test",
     "pluralName": "tests",
-    "displayName": "TEST"
+    "displayName": "TEST",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -13,6 +14,11 @@
   "attributes": {
     "title": {
       "type": "string"
+    },
+    "test_2": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::test-2.test-2"
     }
   }
 }
